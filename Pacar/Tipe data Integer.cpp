@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int angkaIni = 20;
+    int angkaIni = 10;
     cout << angkaIni;
     return 0;
 }
